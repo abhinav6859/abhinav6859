@@ -1,6 +1,9 @@
 ### Hi there 👋
 [![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://github.com/abhinav6859/abhinav6859)
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+,+I+am+Abhinav+Vats!&font=Fira%40Code&center=true&width=380&height=70&duration=8000&pause=5000" alt="Example Usage - README Typing SVG"></h1>
+<!--<h1 align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+,+I+am+Abhinav+Vats!&font=Fira%40Code&center=true&width=380&height=70&duration=8000&pause=5000" alt="Example Usage - README Typing SVG"></h1> --->
+
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=40&pause=1000&background=77CFFF18&width=600&height=100&lines=Hi+%F0%9F%91%8B+%2C+I+am+Abhinav+Vats!"alt="abhinav vats"></h1> 
+
 <h3 align="center">💻 A computer science student from India</h3>
 
 <h2 align="center">
