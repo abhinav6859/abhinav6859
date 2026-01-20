@@ -52,8 +52,7 @@
 <!-- <a href="https://auth.geeksforgeeks.org/user/rudranaranyis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rudranaranyis" height="30" width="40" /></a>
 </p> -->
   
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/abhinav6859"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abhinav6859" /></a></p><br><br>
+
 <!--
 **abhinav6859/abhinav6859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
