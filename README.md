@@ -1,10 +1,9 @@
 ### Hi there 👋
-[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://github.com/abhinav6859/abhinav6859)
-<!--<h1 align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋+,+I+am+Abhinav+Vats!&font=Fira%40Code&center=true&width=380&height=70&duration=8000&pause=5000" alt="Example Usage - README Typing SVG"></h1> --->
+
 
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=40&pause=1000&background=77CFFF18&width=600&height=100&lines=Hi+%F0%9F%91%8B+%2C+I+am+Abhinav+Vats!"alt="abhinav vats"></h1> 
 
-<h3 align="center">💻 A computer science student from India</h3>
+
 
 <h2 align="center">
  
@@ -14,29 +13,101 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav6859&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav6859" /> </p>
 
-- 🔭 I’m currently working on **Some Personal Projects**
 
-- 🌱 I’m currently learning **webdev, DSA**
-
-- 👯 I’m looking to collaborate on **building New innovative project **
-
-- 🤝 I’m looking for help with **Some Personal Projects**
-
-- 💬 Ask me about ** cpp and c**
-
-- 📫 How to reach me **abhinavvats06665@gmail.com**
-
-- ⚡ Fun fact **I ❤️ iNFINITY.**
 
 <div align="center">
 
 &nbsp;
-## 💻 Languages Known & Tools Used
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="CSS" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> </a>
+<h3 align="center">🚀 Full Stack Developer | Next.js Developer | Software Engineer</h3>
 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <!--<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>   -->
+* 🎓 B.Tech in Computer Science Engineering (2022–2026)
+* 💻 Full Stack Developer specializing in Next.js, TypeScript, PostgreSQL, Prisma ORM, MongoDB, and Docker
+* 🔭 Currently building scalable full-stack applications
+* 🌱 Learning System Design, Advanced Backend Architecture, and Cloud Technologies
+* 👯 Open to collaborating on Full Stack and Open Source Projects
+* 💬 Ask me about React, Next.js, JavaScript, TypeScript, Node.js, PostgreSQL, Prisma, MongoDB, and REST APIs
+* 📫 Reach me at **[abhinavvats06665@gmail.com](mailto:abhinavvats06665@gmail.com)**
+* ⚡ Fun fact: I enjoy turning complex problems into scalable software solutions.
+
+---
+
+## 💻 Languages & Technologies
+
+### Programming Languages
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+</p>
+
+### Database & ORM
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="40" height="40"/>
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+### 🎓 School Management System
+
+* Next.js, TypeScript, PostgreSQL, Prisma ORM, Docker
+* JWT Authentication & RBAC
+* Attendance Management
+* Analytics Dashboard
+* Pagination & Filtering
+* Student, Teacher & Parent Modules
+
+### 🤖 AI-Powered Grievance Redressal System
+
+* React.js, Express.js, MongoDB
+* Complaint Classification
+* Priority Prediction
+* REST API Architecture
+* Dashboard Analytics
+
+### 🦷 Dental Clinic Management Website
+
+* React.js, Tailwind CSS
+* Appointment Booking
+* Dynamic Content Management
+* Responsive Design
+* SEO Optimization
 
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
